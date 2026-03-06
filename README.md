@@ -4,8 +4,7 @@ This project showcases my skills, projects, and experience as a Full Stack Web D
 🚀 Live Demo
 
 🔗 View Portfolio
-
-(Add your deployed link here – Netlify / Vercel / GitHub Pages)
+(https://abijithsunny.github.io/Portfolio/)
 
 👨‍💻 About Me
 
